@@ -16,3 +16,8 @@
 
 ### 5. Images and corresponding probability that predicted Wrong
 ![probability_that_predicted_wrong](https://user-images.githubusercontent.com/49530253/121721272-0b5cfc00-cb1f-11eb-8730-f23dc8f3a545.png)
+
+## model 2
+
+### 1. Model
+![model2](https://user-images.githubusercontent.com/49530253/121721550-5840d280-cb1f-11eb-90b1-c31429f99975.PNG)
