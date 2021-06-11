@@ -11,3 +11,6 @@
 ### 3. Test Accuracy
 ![perform_test_with_test_data](https://user-images.githubusercontent.com/49530253/121720922-9e496680-cb1e-11eb-896a-15c1bfcc39e1.PNG)
 
+### 4. Images and corresponding probability that predicted Right
+![4](https://user-images.githubusercontent.com/49530253/121721044-c33dd980-cb1e-11eb-918b-4c872d706534.png)
+
