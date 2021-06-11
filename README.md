@@ -21,3 +21,7 @@
 
 ### 1. Model
 ![model2](https://user-images.githubusercontent.com/49530253/121721550-5840d280-cb1f-11eb-90b1-c31429f99975.PNG)
+
+### 2. Training with Training loss
+![training_with_training_loss](https://user-images.githubusercontent.com/49530253/121721703-7f979f80-cb1f-11eb-86c3-60fc3581a445.PNG)
+
