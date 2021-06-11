@@ -28,3 +28,5 @@
 ### 3. Test Accuracy
 ![perform_test_with_test_data](https://user-images.githubusercontent.com/49530253/121721873-b1106b00-cb1f-11eb-8eea-addd42322e5d.PNG)
 
+### 4. Images and corresponding probability that predicted Right
+![4](https://user-images.githubusercontent.com/49530253/121722015-dbfabf00-cb1f-11eb-9df7-76e16f40e4d1.png)
