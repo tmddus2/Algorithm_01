@@ -39,3 +39,6 @@
 ### 1. Model
 ![model3](https://user-images.githubusercontent.com/49530253/121722185-13696b80-cb20-11eb-9b68-5237556fdafa.PNG)
 
+### 2. Training with Training loss
+![training_with_training_loss](https://user-images.githubusercontent.com/49530253/121722289-398f0b80-cb20-11eb-815e-9bd1a11e067d.PNG)
+
