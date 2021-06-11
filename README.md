@@ -25,3 +25,6 @@
 ### 2. Training with Training loss
 ![training_with_training_loss](https://user-images.githubusercontent.com/49530253/121721703-7f979f80-cb1f-11eb-86c3-60fc3581a445.PNG)
 
+### 3. Test Accuracy
+![perform_test_with_test_data](https://user-images.githubusercontent.com/49530253/121721873-b1106b00-cb1f-11eb-8eea-addd42322e5d.PNG)
+
