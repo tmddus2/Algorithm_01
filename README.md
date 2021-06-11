@@ -34,3 +34,8 @@
 ### 5. Images and corresponding probability that predicted Wrong
 ![probability_that_predicted_wrong](https://user-images.githubusercontent.com/49530253/121722084-f3d24300-cb1f-11eb-8d69-1a590bf40008.png)
 
+## model 3
+
+### 1. Model
+![model3](https://user-images.githubusercontent.com/49530253/121722185-13696b80-cb20-11eb-9b68-5237556fdafa.PNG)
+
